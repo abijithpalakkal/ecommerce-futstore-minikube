@@ -1,0 +1,4 @@
+node_modules
+public/admin/uploads
+*.env
+docker-compose.yml
